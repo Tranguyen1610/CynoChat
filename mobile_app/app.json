@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "CynoChat",
+    "slug": "CynoChat",
+    "version": "1.0.0",
+    "icon": "./src/image/icon.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.tranguyen1610.mobile_app"
+    }
+
+  }
+}
